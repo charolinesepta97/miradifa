@@ -1,0 +1,8 @@
+@charset "utf-8";
+h1{color:white; letter-spacing:-1px; margin:0; text-align:left; font:42px verdana;}
+h2{font-size:1.6em; font-weight:normal; letter-spacing:-1px; margin:5px 0 10px; font: 22px verdana;}
+img{border: 0px;}
+blockquote {background-color: #666; color: white; font-style: italic; text-align: left; width: 300px; margin: 10px auto;}
+code {color: #444;font: verdana, monospace;background-color: #f4f4f4;font-size: 1.2em;}
+input/* CSS Document */
+
